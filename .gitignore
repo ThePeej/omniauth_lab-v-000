@@ -15,5 +15,5 @@
 /log/*
 !/log/.keep
 /tmp
-/config/initializers/omniauth.rb
+.env
 Gemfile.lock
